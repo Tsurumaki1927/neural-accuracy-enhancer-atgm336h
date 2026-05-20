@@ -145,5 +145,4 @@ TSURUMAKI
 
 ## 许可证
 
-MIT License
-```
+家人们点个STAR求求了
